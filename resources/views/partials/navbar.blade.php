@@ -10,11 +10,17 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" href="/panti">Panti Disabilitas</a>
+          </li>
+        <li class="nav-item">
           <a class="nav-link" href="/Posts">Blog</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/about">About</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/cari">Cari Keluarga</a>
+          </li>
       </ul>
     </div>
   </div>
