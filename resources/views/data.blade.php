@@ -4,7 +4,7 @@
 <div class="card card-info">
 	<div class="card-header">
 		<h3 class="card-title">
-			<i class="fa fa-table"></i> Berikut daftar panti dan lembaga sosial yang bekerjasama dengan temukeluarga.id</h3>
+			<i class="fa fa-table"></i> Data Orang Hilang Yang Terdata</h3>
 	</div>
 	<!-- /.card-header -->
 	<div class="card-body">
@@ -14,9 +14,9 @@
 				<thead>
 					<tr style="text-align: center;">
 					<th>NO</th>
-                    <th>NAMA PANTI/LEMBAGA</th>
-                    <th>ALAMAT</th>
-					<th>JUMLAH ORANG YANG PERLU REUNIFIKASI</th>
+                    <th>NAMA</th>
+                    <th>RINCIAN PENEMUAN</th>
+					<th>CIRI-CIRI</th>
 					</tr>
 				</thead>
 			</table>
